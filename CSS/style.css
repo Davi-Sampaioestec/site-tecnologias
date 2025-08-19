@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+.titulo{
+    font-family: DM Serif Text;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 100;
+    color: white;
+    background-color: blue;
+}
+.texto{
+    font-family: DM Serif Text;
+    font-weight: 500;
+    font-size: 20px;
+    background-color: steelblue;
+    color: white;
+}
